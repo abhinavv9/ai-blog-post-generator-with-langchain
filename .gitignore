@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+
+# Local configuration files
+*.local
+
+# PyInstaller
+# Usually these files are written by a python script from a template
+# before PyInstaller builds the exe, so they are ignored.
+*.spec
+
+# Installer logs
+installer.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+
+# Sphinx documentation
+docs/_build/
+
+# Pynt configuration
+.pynt
+
+# IPython/Jupyter
+.ipynb_checkpoints
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code files
+.vscode/
+
+# pyenv
+.python-version
+
+# poetry
+poetry.lock
+
+# pipenv
+Pipfile.lock
+
+# venv
+venv/
